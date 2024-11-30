@@ -1,1 +1,2 @@
-# CustomerSupportSystem
+# Система поддержки клиентов
+Первая работа с git
